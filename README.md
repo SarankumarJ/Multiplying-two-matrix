@@ -44,3 +44,5 @@ print('Product of two arrays is:',product)
 ## RESULT:
 Thus the multiplying two matrix is sucessfully solved using python program
 
+
+Sucessfully Finished 
